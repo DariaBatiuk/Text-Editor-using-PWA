@@ -39,8 +39,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ##Mock-Up
-```md
 ![image](https://user-images.githubusercontent.com/83068010/229397226-3724f534-a7a3-49ff-a588-eb45c3b5a503.png)
 
 Link to the deployed project: https://stark-beach-11860.herokuapp.com/
-```
+
